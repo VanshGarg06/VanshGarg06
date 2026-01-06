@@ -110,7 +110,7 @@
               <strong>Innovator Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="web3hack.png" alt="Web3 Hack Badge" width="80" />
+              <img src="https://github.com/VanshGarg06/VanshGarg06/blob/main/web3hack.png" alt="Web3 Hack Badge" width="80" />
               <br>
               <strong>Web3 Hack Badge</strong>
             </td>
