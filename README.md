@@ -62,7 +62,7 @@
         <a href="">
           <img src="https://github.com/VanshGarg06/VanshGarg06/blob/main/gssoc.png" alt="GirlScript Summer of Code Extended" width="120" />
           <br>
-          <strong>GirlScript Summer of Code Extended</strong>
+          <strong>GirlScript Summer of Code Extended(2024)</strong>
         </a>
         <br>
         <span style="font-size: 14px; color: #555555;">🏅 Ranked 145th</span>
@@ -137,7 +137,7 @@
         <a href="">
           <img src="https://github.com/VanshGarg06/VanshGarg06/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
-          <strong>GirlScript Summer of Code</strong>
+          <strong>GirlScript Summer of Code(2025)</strong>
         </a>
         <br>
         <span style="font-size: 14px; color: #555555;">🏅 Ranked 100th </span>
