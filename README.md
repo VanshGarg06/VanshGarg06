@@ -20,11 +20,11 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,php,python&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,php,python,javascript,typescript&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgresql,couchbase&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -32,7 +32,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,fastapi&theme=dark"></td>
 </tr>
 
 <tr>
@@ -42,14 +42,28 @@
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vim,eclipse,vscode&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vim,eclipse,vscode,bash,linux&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Data Analysis</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=latex,sklearn&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=latex,sklearn,numpy,pandas,matplotlib&theme=dark"></td>
 </tr>
 
+<tr>
+	<td><strong>Testing Framework</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=jest&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>API Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=graphql&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>CI Pipeline</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=jenkins,actions&theme=dark"></td>
+</tr>
 </table>
 <br>
 
